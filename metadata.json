@@ -1,0 +1,6 @@
+{
+  "name": "NewtonLab",
+  "description": "AI-powered robotics learning platform with adaptive assessments, browser-based Python coding, automated evaluation, and interactive 3D robotics simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
